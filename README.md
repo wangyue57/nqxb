@@ -5,4 +5,4 @@ $()支持传入 `css语法选择器`、`html字符串`、`原生dom对象`、`�
 ###入口函数
 $()参数为函数时，可作为入口函数
 ###其他功能
-模仿实现了jQuery的`extend方法`、`each方法`、`简单的css操`作、`on事件绑`定等
+模仿实现了jQuery的`extend方法`、`each方法`、`css操作`、`class操作`、`on事件绑定`、`append/prepend方法`等
