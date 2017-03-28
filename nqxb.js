@@ -374,6 +374,7 @@
             });
             return this;
         },
+        
         on: function (type, fn) {
             if (type + '' === type) {
                 this.each(function () {
